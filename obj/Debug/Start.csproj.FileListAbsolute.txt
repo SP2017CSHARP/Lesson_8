@@ -1,0 +1,7 @@
+c:\users\bermajam\documents\visual studio 2017\Projects\Start\bin\Debug\Start.exe.config
+c:\users\bermajam\documents\visual studio 2017\Projects\Start\bin\Debug\Start.exe
+c:\users\bermajam\documents\visual studio 2017\Projects\Start\bin\Debug\Start.pdb
+c:\users\bermajam\documents\visual studio 2017\Projects\Start\obj\Debug\Start.csprojResolveAssemblyReference.cache
+c:\users\bermajam\documents\visual studio 2017\Projects\Start\obj\Debug\Start.csproj.CoreCompileInputs.cache
+c:\users\bermajam\documents\visual studio 2017\Projects\Start\obj\Debug\Start.exe
+c:\users\bermajam\documents\visual studio 2017\Projects\Start\obj\Debug\Start.pdb
